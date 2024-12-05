@@ -5,7 +5,6 @@ layout: page
 # About Me
 ---
 
-<img src="https://GoubinXie.github.io/images/mypic.jpg" class="floatpic">
 ---
 Here is Guobin Xie (Goubin,谢国斌).<br>
 
