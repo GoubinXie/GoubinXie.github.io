@@ -30,7 +30,7 @@ links:
   - title: About Me
     url: /
   - title: CV
-    url: /file/Goubin.pdf/
+    url: /file /Goubin.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
