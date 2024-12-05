@@ -6,7 +6,7 @@ layout: page
 ---
 Here is **Guobin Xie (Goubin,谢国斌)**.<br>
 
-I am in my master of Language and Brain Science, at Biolinguistics and Brain Sciences Lab, Department of Linguistics, BLCU .<br>
+I am currently in my master of Language and Brain Science, at Biolinguistics and Brain Sciences Lab, Department of Linguistics, BLCU .<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xieguobin666[at]gmail.com
 
