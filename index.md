@@ -3,9 +3,7 @@ layout: page
 ---
 
 # About Me
-
-
-
+---
 Here is **Guobin Xie (Goubin,谢国斌)**.<br>
 
 I am in my master of Language and Brain Science, at Biolinguistics and Brain Sciences Lab, Department of Linguistics, BLCU .<br>
@@ -25,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Simultaneous EEG-fNIRS
 
 I currently utilize Frequency-Tagging Paradigm by simultaneous EEG-fNIRS Acquisition to explore 1) the causal relationship between neural oscillation and speech
-perception, 2) the different representations of predicting and perceiving speech, 3) the potential rhythmic structure tendency of Chinese。
+perception, 2) the different representations of predicting and perceiving speech, 3) the potential rhythmic structure tendency of Chinese.
 
 ---
 
