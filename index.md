@@ -6,7 +6,8 @@ layout: page
 ---
 
 <img src="https://GoubinXie.github.io/images/mypic.jpg" class="floatpic">
-Here is **Guobin Xie (Goubin,谢国斌)**.<br>
+---
+Here is Guobin Xie (Goubin,谢国斌).<br>
 
 I am currently in my master of Language and Brain Science, at Biolinguistics and Brain Sciences Lab, Department of Linguistics, BLCU .<br>
 
