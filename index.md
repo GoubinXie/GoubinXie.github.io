@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 
-Here is Guobin Xie (Goubin,谢国斌).<br>
+Here is Guobin Xie (Goubin,谢国斌)
 
 I am currently in my master of Language and Brain Science, at Biolinguistics and Brain Sciences Lab, Department of Linguistics, BLCU
 
