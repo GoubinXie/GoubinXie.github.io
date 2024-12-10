@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 I currently utilize Frequency-Tagging Paradigm by simultaneous EEG-fNIRS Acquisition to investigate the neural tracking and 'entrainment echoes'(van Bree et al., 2021; Zoefel et al., 2024) to acoustic envelope and higher linguistics strcuture. This project addresses several key questions: 1) the causal relationship between neural oscillations and speech perception, 2) the distinct representations of predicting versus perceiving speech, 3) the dissociative neural circuits of endogenous and exogenous oscillations during speech processing. In the near future, I plan to employ tDCS and tACS to further explore the causal links between neural dynamics and speech processing, particularly at higher linguistic levels.   
 
-
+---
 
 **Abstract(Ongoing Paper)**   
 
