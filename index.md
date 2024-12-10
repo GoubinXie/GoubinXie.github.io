@@ -28,9 +28,6 @@ I currently utilize Frequency-Tagging Paradigm by simultaneous EEG-fNIRS Acquisi
 ---
 
 **Abstract(Ongoing Paper)**   
-
-
-  
 Both the acoustic properties and the linguistic content of speech elicit neural dynamic changes, which have been shown to follow the temporal structure of language across different time scales. This study primarily investigates whether the brain can infer (abstract) the temporal structure patterns of speech based on the rhythmical context by the entrainment mechanism, which can also be used to predict and regulate the segmentation of speech flow. Specifically, we will examine whether the neural entrainment to rhythmic structure sustains after the speech stimulus disappear and biases the speech segmentation and combination. By this way, we can demonstrate that neural entrainment not only causally modulates speech segmentation at the acoustic level but also at the higher structural level. <br/>
 
 ---
