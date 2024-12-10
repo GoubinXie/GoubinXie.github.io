@@ -6,7 +6,7 @@ owner:
   avatar: pinpic.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xieguobin666[at]gmail.com
-  cv: https://GoubinXie.github.io/file/Goubin.pdf
+  cv: https://GoubinXie.github.io/file/Goubin (2).pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: Goubin_Shieh
   github: GoubinXie
@@ -30,7 +30,7 @@ links:
   - title: About Me
     url: /
   - title: CV
-    url: /file/Goubin.pdf
+    url: /file/Goubin (2).pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
